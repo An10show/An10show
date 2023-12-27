@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there :sunglasses: :tv:
 
-<!--
-**An10show/An10show** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu me chamo Anderson Sou programador Front End, Atuamente estou desemvolvendo meus comhecimentos em :
+<br>
+<br>
+<br>
+.  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="html-logo"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="css3-logo" />
+
+.  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
+
+.  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo"/>
+
+.  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="java-logo"/>
+
+.  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black" alt="node-logo"/>
+
+.  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript-logo"/>
+
+<br> 
+<br>
+Dentre Outros que estão comtribuindo ao meu crescimento profissinal , se estiver procurando um profissinal em desemvolvimento veio ao lugar certo tenho foco e sou determinado abixo alguns meios de contato :
+<br>
+<br>
+.  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" alt="Faceboock-logo"/><a href="https://www.facebook.com/profile.php?id=100000545448116">Clique aqui</a>  
+
+[![Anderson stats](https://github-readme-stats.vercel.app/api?username=An10show)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An10show)](https://github.com/anuraghazra/github-readme-stats)
