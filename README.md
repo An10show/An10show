@@ -1,3 +1,6 @@
+<img height="90%" src="https://softdesign.com.br/wp-content/webpc-passthru.php?src=https://softdesign.com.br/wp-content/uploads/2022/05/Programacao-Funcional-scaled-2.jpg&nocache=1"/>
+
+
 ### Hi there :sunglasses: :tv:
 
 
@@ -24,8 +27,12 @@ Eu me chamo Anderson Sou programador Front End, Atuamente estou desemvolvendo me
 Dentre Outros que estão comtribuindo ao meu crescimento profissinal , se estiver procurando um profissinal em desemvolvimento veio ao lugar certo tenho foco e sou determinado abixo alguns meios de contato :
 <br>
 <br>
-.  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" alt="Faceboock-logo"/><a href="https://www.facebook.com/profile.php?id=100000545448116">Clique aqui</a>  
+.  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" alt="Faceboock-logo"/><a href="https://www.facebook.com/profile.php?id=100000545448116"/>Clique aqui</a>  
 
 [![Anderson stats](https://github-readme-stats.vercel.app/api?username=An10show)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An10show)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-An10show)
+
