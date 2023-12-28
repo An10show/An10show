@@ -27,7 +27,14 @@ Eu me chamo Anderson Sou programador Front End, Atuamente estou desemvolvendo me
 Dentre Outros que estão comtribuindo ao meu crescimento profissinal , se estiver procurando um profissinal em desemvolvimento veio ao lugar certo tenho foco e sou determinado abixo alguns meios de contato :
 <br>
 <br>
-.  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" alt="Faceboock-logo"/><a href="https://www.facebook.com/profile.php?id=100000545448116 "Clique aqui</a>  
+.  <img <a src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" alt="Faceboock-logo"/><a href=https://www.facebook.com/An10show?mibextid=zLoPMf"> Clique aqui</a>  
+
+<br>
+<br>
+<a href="https://www.facebook.com/An10show?mibextid=zLoPMf">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" alt="logo-whatsapp"/> 
+  </a>
+  <br>
 
 [![Anderson stats](https://github-readme-stats.vercel.app/api?username=An10show)](https://github.com/anuraghazra/github-readme-stats)
 
